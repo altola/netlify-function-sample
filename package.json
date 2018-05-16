@@ -1,0 +1,21 @@
+{
+  "name": "random-word",
+  "version": "1.0.0",
+  "description": "Basic Examples of using netlify functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://drolex@bitbucket.org/drolex/random-word.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/drolex/random-word#readme",
+  "dependencies": {
+    "firebase": "^5.0.2",
+    "netlify-lambda": "^0.4.0",
+    "uuid": "^3.2.1"
+  }
+}
